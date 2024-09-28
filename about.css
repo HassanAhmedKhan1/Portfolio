@@ -1,0 +1,17 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins' , sans-serif;
+}
+body{
+    color: #ededed;
+    background-color: rgb(28, 28, 75);
+}
+.aboutyou{
+    color: #ededed;
+    margin-top: 250px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
